@@ -1,0 +1,37 @@
+.form1{
+    align-items: center;
+    border: solid rgb(142, 101, 255);
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: rgb(139, 255, 145);
+
+}
+.form2{
+    align-items: center;
+    border: solid rgb(255, 106, 86);
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: rgb(175, 255, 255);
+
+}
+.row{
+    padding: 10px;
+}
+.content{
+    padding: 2px;
+}
+.button{
+    align-content: center;
+    background-color: blue;
+    color: blue;
+    padding: 10px;
+    background-color: #4CAF50;
+    
+}
+.button2{
+    color: brown;
+    height: 70px;
+    width: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
